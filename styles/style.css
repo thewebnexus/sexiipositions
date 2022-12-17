@@ -1098,6 +1098,15 @@ section {
     cursor: pointer;
 }
 
+
+.shop-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: 100px;
+    margin-bottom: 180px;
+}
+
 /*Cart*/
 .cart {
     position: fixed;
