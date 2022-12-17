@@ -20,7 +20,7 @@ const Home = ({ products, bannerData }) => (
                 </div>
                 <div class="col-md-4 content-gd-wthree ab-content py-lg-5 my-lg-5">
                 <div className="products-heading">
-      <h2>New Arrival Products</h2>
+      <h2>New Products Arrival</h2>
     </div>
                     <p>Shop now to find your sexii.</p>
                     <div className="products-container">
