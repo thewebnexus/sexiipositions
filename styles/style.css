@@ -1103,6 +1103,7 @@ section {
     position: relative;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     top: 100px;
     margin-bottom: 180px;
 }

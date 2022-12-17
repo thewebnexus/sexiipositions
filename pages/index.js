@@ -8,7 +8,7 @@ const Home = ({ products, bannerData }) => (
     <HeroBanner heroBanner={bannerData.length && bannerData[0]}  />
 
 
-    <section class="banner-bottom py-5">
+  <section class="banner-bottom py-5">
         <div class="container py-md-5">
 
             <h3 class="title-wthree mb-lg-5 mb-4 text-center">Hey Sexii &#128139;</h3>
