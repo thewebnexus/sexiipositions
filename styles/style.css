@@ -146,6 +146,11 @@ nav {
     float: left;
 }
 
+#logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 #logo a {
     float: left;
@@ -288,7 +293,7 @@ li > a:only-child:after {
 
 @media all and (max-width : 992px) {
 
-    /*	#logo {
+    	/* #logo {
 		display: block;
 		padding: 0;
 		width: 100%;
